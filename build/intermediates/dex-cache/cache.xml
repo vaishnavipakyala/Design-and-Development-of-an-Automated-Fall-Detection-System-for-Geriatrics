@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0baddd8b8b3d0d4911cebb9bead9d7c1eb132a56">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ebe355969f9b788bf9b061a8eef600271ab12fd1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\.gradle\caches\modules-2\files-2.1\org.eclipse.birt.runtime.3_7_1\org.apache.commons.codec\1.3.0\72c73f3729b4ca49dac8691fb5adb194e8595799\org.apache.commons.codec-1.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="72c73f3729b4ca49dac8691fb5adb194e8595799">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.apache.commons.codec-1.3.0_8b1857a8004a51045e9c5c68e5b6074ce686f49c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_7fbbbaa41e2a8ed505c4d7b49db2454e730d5b28\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_49bc925c124d46fcc6dd6c0e206902aad7824668\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\.gradle\caches\modules-2\files-2.1\com.github.frankiesardo\auto-parcel\0.2\d28e477be0a5a3f8fc6770310868528563c3fd37\auto-parcel-0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d28e477be0a5a3f8fc6770310868528563c3fd37">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\auto-parcel-0.2_2f06dbbb651b4ee3753aa4cb6103bba05f78bd2e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9c5934527e78519fff03966fd4e30c733ba7d68a">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_974288850fd214b5f06244fb3a3e49044531405b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_8ba670992a1f4e561574350c62750c8693757f74\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_733da04c2b3b9fad8b08be46cf5d9334d13f6729\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.0\2534c458682c73f5b9871131ab3098d3f987ca3\okio-1.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.0.0_1223d69d2289a87594a6c1b33605d632f9a4629f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_339ea2bca399e038d7d457ff93ef6ebfdddd7078\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_a7d45e9fb2b7711d1f9b164ccfbf42ebf473913a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\exploded-aar\com.punchthrough.bean.sdk\sdk\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c1e5976c0fd76ef73ea08870e797723e444cd3ed">
+        <dex dex="C:\Users\vaish\AndroidStudioProjects\FallDetection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.punchthrough.bean.sdk-sdk-2.0.1_6c227d2d0093f2ddfd3a1efb93c7558952fcc264\classes.dex" />
+    </item>
+
+</items>
